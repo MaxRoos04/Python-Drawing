@@ -17,9 +17,9 @@ class Example(QMainWindow):
         self.show()
 
     def paintEvent(self, event):
-        qp = QPainter(self)  # pass self as the parameter to the QPainter constructor
+        qp = QPainter(self)  
         self.drawRectangles(qp)
-        qp.end()  # call end() method with no arguments
+        qp.end()  
 
     def drawRectangles(self, qp):
         qp.setPen(QColor(168, 34, 3))
