@@ -19,3 +19,9 @@ Ex3:
 
 
 ![alt text](https://cdn.discordapp.com/attachments/746464734664065175/1089300731783286784/image.png)
+
+</br> 
+
+Ex4: 
+
+![alt text](https://cdn.discordapp.com/attachments/746464734664065175/1089301054740496514/image.png)
