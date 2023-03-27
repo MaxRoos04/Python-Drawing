@@ -1,7 +1,7 @@
 # Python-Drawing
 
 <h3>School project </h3 </br>
-Using PYQT5 </br>
+  <h4>Using PYQT5</h4> </br>
 
 Ex1: 
 
