@@ -1,6 +1,6 @@
 # Python-Drawing
 
-School project </br>
+<h3>School project </h3 </br>
 Using PYQT5 </br>
 
 Ex1: 
